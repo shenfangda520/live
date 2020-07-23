@@ -1,0 +1,155 @@
+@font-face {
+  font-family: 'iconfont_trz';
+  /* project id 1416856 */
+  src: url("http://at.alicdn.com/t/font_1416856_e3sk8djgowd.eot");
+  src: url("http://at.alicdn.com/t/font_1416856_e3sk8djgowd.eot?#iefix") format("embedded-opentype"), url("http://at.alicdn.com/t/font_1416856_e3sk8djgowd.woff2") format("woff2"), url("http://at.alicdn.com/t/font_1416856_e3sk8djgowd.woff") format("woff"), url("http://at.alicdn.com/t/font_1416856_e3sk8djgowd.ttf") format("truetype"), url("http://at.alicdn.com/t/font_1416856_e3sk8djgowd.svg#iconfont") format("svg");
+}
+
+.iconfont_trz {
+  font-family: "iconfont_trz" !important;
+  font-size: 14px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-right: 5px;
+}
+
+.clear3 {
+  zoom: 1;
+}
+
+/*==for IE6/7 Maxthon2==*/
+.clear3:after {
+  clear: both;
+  content: '.';
+  display: block;
+  width: 0;
+  height: 0;
+  visibility: hidden;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.oringe {
+  color: #ff7200 !important;
+}
+
+.el-input__inner {
+  border-color: #eeeeee;
+}
+
+.notice_content {
+  border: 1px solid #eeeeee;
+}
+
+.el-submenu__title {
+  align-items: center;
+  color: #FFF !important;
+}
+
+.el-submenu__title img {
+  margin-right: 12px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.borderbot {
+  border-bottom: 1px solid #ebebeb;
+}
+
+.textcenter {
+  text-align: center;
+}
+
+.textright {
+  text-align: right;
+  justify-content: flex-end;
+}
+
+.textleft {
+  text-align: left;
+}
+
+.blue {
+  color: #5cb1f6;
+}
+
+.disflex {
+  display: flex;
+}
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+}
+
+.bgfff {
+  background: #fff;
+}
+
+.m-width-1240 {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1240px;
+}
+
+.padd25 {
+  padding: 25px;
+}
+
+.margintop25 {
+  margin: 25px 0;
+}
+
+.m-title {
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+
+.m-title i {
+  padding-right: 12px;
+}
+
+.pro-filter .el-form-item {
+  margin-bottom: 0;
+}
+
+.pro-filter .el-form-item__label {
+  width: 90px;
+}
+
+.bgfff {
+  background: #FFF;
+}
+
+.padd25 {
+  padding: 25px;
+}
+
+.martop20 {
+  margin-top: 20px;
+}
+
+.m-title {
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+
+.m-title i {
+  padding-right: 12px;
+}
+
+.table .el-table__row:nth-child(odd) {
+  background: #fafafa;
+}
+
+.page-box {
+  padding: 10px 0;
+}

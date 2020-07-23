@@ -1,0 +1,19 @@
+@charset "utf-8";
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; }
+fieldset, img { border:none; }
+*{
+	padding: 0;
+	margin: 0;
+}
+em,i{
+	font-style: normal;
+}
+img{vertical-align:middle;}
+address, caption, cite, code, dfn, th, var { font-style:normal; font-weight:normal; }
+li{ list-style:none; }
+body { color:#222222; font:14px; background:#f4f4f4; overflow-x:hidden;}
+a { color:#666; text-decoration:none;cursor: pointer;}
+a:visited { color:#666; }
+.clear{ zoom:1;}
+.clear:after{ display: block; content: ""; clear: both;}
+input,textarea{outline: none;}
