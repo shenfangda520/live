@@ -4,7 +4,7 @@
             <div class="pingdao" v-for="(item,index) in list">
                 <a @click="playLive(item)">{{index+1<10?'0'+(index+1):index+1}}-{{item.name}}</a>
             </div>
-
+            <div>123456</div>
         </div>
     </div>
 </template>
